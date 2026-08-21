@@ -1,4 +1,16 @@
-  © 2025-2026 Cristian Popescu. Toate drepturile rezervate.Copierea, modificarea și redistribuirea componentelor din această arhitectură matematică (LOGOS DUAL) sunt permise în scopuri personale sau necomerciale, cu condiția obligatorie de a păstra intactă această notă de copyright și de a-l menționa pe Cristian Popescu drept autor original în toate fișierele și derivatele acestui cod.Utilizarea, integrarea, comercializarea sau exploatarea acestui software în scopuri comerciale, industriale sau de afaceri sunt strict interzise fără acordul scris prealabil și explicit al autorului, Cristian Popescu. Orice încălcare va fi raportată și sancționată conform legilor internaționale de proprietate intelectuală, toate aceste subiecte și teme sunt salvate și în ecosistemul Google cu dată și oră la momentul de construirii.
+© 2025-2026 Cristian Popescu. Toate drepturile rezervate.
+
+Această lucrare este licențiată sub Creative Commons Atribuire-Necomercial 4.0 Internațional (CC BY-NC 4.0).
+
+Sunteți liber să:
+- Partajați — să copiați și să redistribuiți materialul în orice mediu sau format.
+- Adaptați — să remixați, să transformați și să construiți pe baza materialului.
+
+În următoarele condiții:
+- Atribuire — Trebuie să menționați numele autorului original (Cristian Popescu), să furnizați un link către licență și să indicați dacă s-au efectuat modificări.
+- Necomercial — Nu puteți utiliza materialul în scopuri comerciale.
+- Fără restricții suplimentare — Nu puteți aplica termeni legali sau măsuri tehnologice care să restrângă legal alții de la a face orice permite licența.
+-  © 2025-2026 Cristian Popescu. Toate drepturile rezervate.Copierea, modificarea și redistribuirea componentelor din această arhitectură matematică (LOGOS DUAL) sunt permise în scopuri personale sau necomerciale, cu condiția obligatorie de a păstra intactă această notă de copyright și de a-l menționa pe Cristian Popescu drept autor original în toate fișierele și derivatele acestui cod.Utilizarea, integrarea, comercializarea sau exploatarea acestui software în scopuri comerciale, industriale sau de afaceri sunt strict interzise fără acordul scris prealabil și explicit al autorului, Cristian Popescu. Orice încălcare va fi raportată și sancționată conform legilor internaționale de proprietate intelectuală, toate aceste subiecte și teme sunt salvate și în ecosistemul Google cu dată și oră la momentul de construirii.
   # AXIAL‑LOGOS OMEGA 10×18  
 Determinism geometric la scară industrială  
 
