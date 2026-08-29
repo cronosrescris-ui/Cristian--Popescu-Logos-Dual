@@ -1,3 +1,13 @@
+## 📚 Arhivă Oficială / Official Archive & DOI
+
+Acest proiect are o arhivă academică oficială înregistrată pe Zenodo, fișierele și documentația completă fiind conservate sub un cod DOI internațional.
+
+* **DOI:** `10.5281/zenodo.22165235`
+* **Link direct:** https://doi.org/10.5281/zenodo.22165235 
+
+--- 10.5281/zenodo.22165235  
+
+*This project has an official academic archive registered on Zenodo, preserving the complete files and documentation with an international DOI.*
 © 2025-2026 Cristian Popescu. Toate drepturile rezervate.
 
 Această lucrare este licențiată sub Creative Commons Atribuire-Necomercial 4.0 Internațional (CC BY-NC 4.0).
